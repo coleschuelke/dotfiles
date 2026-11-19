@@ -188,5 +188,4 @@ unset __conda_setup
 # <<< conda initialize <<<
 # export PINTOS=/home/qcschuelke/Documents/jenna/OS/pintos-spring-2025-jennatmay
 # export PATH=$PATH:$PINTOS/utils
-export GEMINI_API_KEY="AIzaSyDcPjLF7KX4j7pJNP2XJyWrEhVVtbsG6hs"
 export $EDITOR nvim
